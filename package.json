@@ -13,6 +13,6 @@
     "astro": "^2.0.14"
   },
   "devDependencies": {
-    "@astrojs/deno": "^4.0.2"
+    "@astrojs/deno": "^4.3.0"
   }
 }
